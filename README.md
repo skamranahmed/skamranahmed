@@ -1,9 +1,9 @@
 ### Hi there, I'm Kamran 👋
 
 ## I'm a Student, Developer, and Sci-fi fam!
-- 🔭 I’m currently doing a Chatbot Developer Internship
-- 👩‍👨‍ I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn more about Software Development Cycle
+- 🤖 I’m currently doing a Chatbot Developer Internship
+- 💻 I’m looking to collaborate with other content creators
+- 🔥 2020 Goals: Learn more about Software Development Cycle
 - ⚡ Fun fact: I am an avid Quora user and a vivid book lover
 
 ### Connect with me:
