@@ -2,7 +2,7 @@
 
 ## I'm a Student, a Developer, and a Sci-fi fan!
 - 💻  I’m looking to collaborate with other content creators
-- 🔥  2020 Goals: Learn more about Software Development Cycle
+- 🔥  2021 Goals: Learn more about Software Development Cycle
 - ⚡ Fun fact: I am an avid Quora user and a vivid meme lover
 
 ### Connect with me:
