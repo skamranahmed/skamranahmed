@@ -9,7 +9,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/skamranahmed/)
 
-<br />
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
