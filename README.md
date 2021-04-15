@@ -12,7 +12,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python OpenCV Basics – Part 1](https://www.techcodemonk.in/2020/06/20/opencv-basics/)
+- [Docker Containers vs Virtual Machines](https://www.techcodemonk.in/2021/04/16/docker-containers-vs-virtual-machines/)
 - [Deploy Machine Learning model using Flask](https://www.techcodemonk.in/2020/05/07/deploy-machine-learning-model-using-flask/)
 - [Linear Regression for Machine Learning](https://www.techcodemonk.in/2020/05/05/linear-regression-machine-learning/)
 - [Blockchain – Unchained](https://www.techcodemonk.in/2020/03/15/blockchain-unchained-blockchain-all-about-blockchainwhat-is-blockchai/)
