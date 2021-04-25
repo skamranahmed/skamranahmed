@@ -6,9 +6,13 @@
 - ⚡ Fun fact: I am an avid Quora user and a vivid meme lover
 
 ### Connect with me:
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/skamranahmed/)
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[<img height="30" src="https://img.shields.io/badge/hashnode-blue.svg?&style=for-the-badge&logo=hashnode&logoColor=white" />][hashnode]
+
+
 [LinkedIn](https://www.linkedin.com/in/skamranahmed/)
-[Hashnode](https://skamranahmed.hashnode.dev/)
+
 
 
 ### 📕 Latest Blog Posts
@@ -24,3 +28,4 @@
 
 [website]: https://www.techcodemonk.in/
 [linkedin]: https://www.linkedin.com/in/skamranahmed/
+[hashnode]: https://skamranahmed.hashnode.dev/
