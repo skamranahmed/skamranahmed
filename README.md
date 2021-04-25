@@ -8,6 +8,7 @@
 ### Connect with me:
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/hashnode-blue.svg?&style=for-the-badge&logo=hashnode&logoColor=white" />][hashnode]
+[<img height="30" src="https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 
 
@@ -25,3 +26,4 @@
 [website]: https://www.techcodemonk.in/
 [linkedin]: https://www.linkedin.com/in/skamranahmed/
 [hashnode]: https://skamranahmed.hashnode.dev/
+[twitter]: https://twitter.com/syedkahmed14/
