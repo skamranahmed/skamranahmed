@@ -8,6 +8,7 @@
 ### Connect with me:
 
 [LinkedIn](https://www.linkedin.com/in/skamranahmed/)
+[Hashnode](https://skamranahmed.hashnode.dev/)
 
 
 ### 📕 Latest Blog Posts
