@@ -14,13 +14,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How does a TCP 3-way handshake work?](https://www.techcodemonk.in/2021/04/25/tcp-3-way-handshake/)
-- [Docker Containers vs Virtual Machines](https://www.techcodemonk.in/2021/04/16/docker-containers-vs-virtual-machines/)
-- [Deploy Machine Learning model using Flask](https://www.techcodemonk.in/2020/05/07/deploy-machine-learning-model-using-flask/)
-- [Linear Regression for Machine Learning](https://www.techcodemonk.in/2020/05/05/linear-regression-machine-learning/)
-- [Blockchain – Unchained](https://www.techcodemonk.in/2020/03/15/blockchain-unchained-blockchain-all-about-blockchainwhat-is-blockchai/)
-- [Changing the MAC address using Python](https://www.techcodemonk.in/2020/02/05/changing-the-mac-address-using-python/)
-- [Web Scraping with Python | Building an IMDb Scraper](https://www.techcodemonk.in/2020/01/18/web-scraping-with-python-building-an-imdb-scraper/)
+- [Working with JSON in Golang](https://www.techcodemonk.in/working-with-json-in-golang/)
+- [How does a TCP 3-way handshake work?](https://www.techcodemonk.in/how-does-a-tcp-3-way-handshake-work/)
+- [Authentication vs Authorization?](https://www.techcodemonk.in/authentication-vs-authorization/)
+- [Docker Containers vs Virtual Machines](https://www.techcodemonk.in/docker-containers-vs-virtual-machines/)
+- [Blockchain – Unchained](https://skamranahmed.medium.com/blockchain-unchained-db8f2c6e1d6e)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://www.techcodemonk.in/
