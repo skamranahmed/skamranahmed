@@ -13,9 +13,7 @@
 - ⚡ Fun fact: I am an avid Quora user and a vivid meme lover
 
 ## My Skills
-<p align="center">
-  [![My Skills](https://skills.thijs.gg/icons?i=golang,python,mysql,postgresql,docker,kubernetes,aws&theme=light)](https://skills.thijs.gg)
-</p>
+[![My Skills](https://skills.thijs.gg/icons?i=golang,python,mysql,postgresql,docker,kubernetes,aws&theme=light)](https://skills.thijs.gg)
 
 ### Connect with me:
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
