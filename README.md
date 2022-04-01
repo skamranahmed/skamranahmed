@@ -12,7 +12,10 @@
 - 🔥  2022 Goals: Learn more about Software Development Cycle and create content
 - ⚡ Fun fact: I am an avid Quora user and a vivid meme lover
 
-[![My Skills](https://skills.thijs.gg/icons?i=golang,python,mysql,postgresql,docker,kubernetes,aws&theme=light)](https://skills.thijs.gg)
+## My Skills
+<p align="center">
+  [![My Skills](https://skills.thijs.gg/icons?i=golang,python,mysql,postgresql,docker,kubernetes,aws&theme=light)](https://skills.thijs.gg)
+</p>
 
 ### Connect with me:
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
