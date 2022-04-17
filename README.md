@@ -9,6 +9,7 @@
 </p>
 
 ## I'm a Student, a Developer, and a Sci-fi fan!
+- 🛠 Currently Building [@markeventas](https://twitter.com/markeventas)
 - 🔥  2022 Goals: Learn more about Software Development Cycle and create content
 - ⚡ Fun fact: I am an avid Quora user and a vivid meme lover
 
