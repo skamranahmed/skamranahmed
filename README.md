@@ -9,9 +9,6 @@
 </p>
 
 ## I'm a Student, a Developer, and a Sci-fi fan!
-- 🛠 Currently Building [@markeventas](https://twitter.com/markeventas)
-- 🔥  2022 Goals: Learn more about Software Development Cycle and create content
-- ⚡ Fun fact: I am an avid Quora user and a vivid meme lover
 
 ## My Skills
 [![My Skills](https://skills.thijs.gg/icons?i=golang,python,mysql,postgresql,docker,kubernetes,aws&theme=light)](https://skills.thijs.gg)
