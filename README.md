@@ -8,7 +8,7 @@
   <img src="desc.svg" width="400">
 </p>
 
-## Trying to bring back the hobbyist and tinkerer developer in me!
+## ⏳ Trying to bring back the hobbyist and tinkerer developer in me!
 
 ### Connect with me:
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
